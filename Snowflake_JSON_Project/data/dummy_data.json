@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Ali",
+    "Gender": "Male",
+    "DOB": "1999-01-01",
+    "Pets": ["Cat", "Dog"],
+    "Address": {
+      "House Number": "123",
+      "City": "Faisalabad",
+      "State": "Punjab"
+    },
+    "Phone": {
+      "Work": 423456789,
+      "Mobile": 3001234567
+    }
+  }
+]
